@@ -159,24 +159,6 @@ Planned enhancements:
 
 ---
 
-## Screenshots
-
-Add screenshots here after deployment.
-
-### GitHub Actions
-
-![GitHub Actions](images/github-actions.png)
-
-### Grafana Dashboard
-
-![Grafana Dashboard](images/grafana-dashboard.png)
-
-### Prometheus Targets
-
-![Prometheus Targets](images/prometheus-targets.png)
-
----
-
 ## Author
 
 Yusdel Concepcion
