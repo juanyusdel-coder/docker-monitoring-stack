@@ -165,11 +165,3 @@ Yusdel Concepcion
 
 Cloud & DevOps Engineer
 
-AWS • Terraform • Ansible • Docker • GitHub Actions • Linux## Skills Demonstrated
-
-- Docker
-- Docker Compose
-- Monitoring
-- Observability
-- Infrastructure Operations
-- GitHub Actions CI
