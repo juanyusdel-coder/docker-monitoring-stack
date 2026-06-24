@@ -70,7 +70,7 @@ docker-monitoring-stack/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/docker-monitoring-stack.git
+git clone https://github.com/juanyusdel-coder/docker-monitoring-stack.git
 cd docker-monitoring-stack
 ```
 
